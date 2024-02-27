@@ -8,7 +8,7 @@ public class AppLadrillos{
         dibujar_pared_rec(10);
     }
         public static void dibujar_pared_ite(int n){
-            for(int i=0;i<n;i++){
+            for(int i=10;i>0;i--){
                 System.out.println("xxxxxxxxxxxxxx");
     
             }        
@@ -22,8 +22,7 @@ public class AppLadrillos{
             
 
         }
-
-
+       
 
     }
 
